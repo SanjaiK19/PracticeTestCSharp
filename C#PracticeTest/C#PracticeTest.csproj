@@ -6,7 +6,7 @@
     <RootNamespace>C_PracticeTest</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_PracticeTest.ParcelDimensionsRecord.ParcelDimensions</StartupObject>
+    <StartupObject>C_PracticeTest.RestaurantOrderEntry</StartupObject>
   </PropertyGroup>
 
 </Project>
